@@ -5,7 +5,7 @@
 | 1 — Monitor de Estoque | `questao1` | Observer |
 | 2 — Tarifa de Estacionamento | `questao2` | Strategy |
 | 3 — Pedido de Café | `questao3` | Decorator |
-
+   
 ## Como executar
 
 A partir da raiz do repositório:
